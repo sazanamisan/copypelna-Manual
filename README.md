@@ -21,7 +21,7 @@ LMS内でのファイル名はUTF-8のため、Windowsの場合
 (http://www.lzh-zip.com/freesoft/free127.html)
 
 ##コピペルナーV3を使う前にしておくこと
-![Alt text](https://cacoo.com/diagrams/p01AoKwNtaZ3iaFY-08DC5.png)  
+![Alt text](image/kopipe02.png)  
 
 - ファイルのアップロードでの課題受付をする  
 1.Moodle上で右上にある「編集モードの開始」ボタンを押す。  
